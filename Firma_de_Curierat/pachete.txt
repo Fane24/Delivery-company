@@ -1,0 +1,574 @@
+
+
+Bucuresti,23,Popa Marian,Marius Nasta,false
+Destinatie: Bucuresti
+Greutate: 23
+Expeditor: Popa Marian
+Destinatar: Marius Nasta
+Expediat: nu
+
+Bucuresti,23,Popa Marian,Marius Nasta,true
+Destinatie: Bucuresti
+Greutate: 23
+Expeditor: Popa Marian
+Destinatar: Marius Nasta
+Expediat: da
+
+23,Livrator@75b84c92,Client@6bc7c054,true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client@6bc7c054
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+23,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 23
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@75b84c92,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@75b84c92
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator@6bc7c054,Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator@6bc7c054
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
+21,Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'},Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'},true
+Greutate: 21
+Expeditor: Livrator{nume='Marian', prenume='andrei', telefon='038934', vehicul='BMW'}
+Destinatar: Client{nume='Marian', adresa='null', nrTelefon='074537', email='marian@yahoo.com'}
+Expediat: da
+
